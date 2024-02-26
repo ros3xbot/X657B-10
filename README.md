@@ -1,4 +1,4 @@
-## full_x657b_h6117-user 10 QP1A.190711.020 114340 release-keys
+## x657b_h6117-user 10 QP1A.190711.020 114340 release-keys
 - Manufacturer: infinix mobility limited
 - Platform: mt6761
 - Codename: Infinix-X657B
