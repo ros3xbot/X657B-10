@@ -7,3 +7,22 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+## full_x657b_h6117-user 10 QP1A.190711.020 114340 release-keys
+- Manufacturer: infinix mobility limited
+- Platform: mt6761
+- Codename: Infinix-X657B
+- Brand: Infinix
+- Flavor: full_x657b_h6117-user
+- Release Version: 10
+- Kernel Version: 4.9.190
+- Id: QP1A.190711.020
+- Incremental: EI-OP-S2-210602V145
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: 320
+- Fingerprint: Infinix/X657B-OP-S2/Infinix-X657B:10/QP1A.190711.020/EI-OP-S2-210602V145:user/release-keys
+- OTA version: 
+- Branch: full_x657b_h6117-user-10-QP1A.190711.020-114340-release-keys
+- Repo: infinix/Infinix-X657B
