@@ -1,13 +1,4 @@
 # Android device tree for Infinix Infinix X657B (Infinix-X657B)
-
-```
-#
-# Copyright (C) 2023 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
-## full_x657b_h6117-user 10 QP1A.190711.020 114340 release-keys
 - Manufacturer: infinix mobility limited
 - Platform: mt6761
 - Codename: Infinix-X657B
@@ -26,3 +17,10 @@
 - OTA version: 
 - Branch: full_x657b_h6117-user-10-QP1A.190711.020-114340-release-keys
 - Repo: infinix/Infinix-X657B
+```
+#
+# Copyright (C) 2023 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
